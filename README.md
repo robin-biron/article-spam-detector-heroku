@@ -6,14 +6,14 @@ We therefore understand that it is necessary to create tools capable of detectin
 
 The web app was built in Python using the following libraries:
 
-streamlit
-bokeh
-pandas
-seaborn
-numpy
-matplotlib
-PIL
-scipy
-bkharts
+- streamlit
+- bokeh
+- pandas
+- seaborn
+- numpy
+- matplotlib
+- PIL
+- scipy
+- bkharts
 
 The web app is deployed on heroku : https://spam-detecctor-online.herokuapp.com/
